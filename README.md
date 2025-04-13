@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi there, I'm Alexander <img src="https://raw.githubusercontent.com/msmkdenis/msmkdenis/main/wave.gif" width="30px">
-</h1>
+# Hi there, I'm Alexander 👋
 
 ---
 
