@@ -19,6 +19,6 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nmplz&show_icons=true&theme=dark" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nmplz&layout=compact&theme=dark" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nmplz&show_icons=true&theme=dark" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nmplz&layout=compact&theme=dark" height="120"/>
 </p>
